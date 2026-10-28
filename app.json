@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "Finance Budget Tracker",
+    "slug": "finance-budget-tracker",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#00D09E"
+    },
+    "ios": {
+      "supportsTablet": false
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#00D09E"
+      }
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
